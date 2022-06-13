@@ -1,0 +1,22 @@
+﻿<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ArrayOfPassanger">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Passanger" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element type="xs:integer" name="Id" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="name" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="weight" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="time" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="flightNumber" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="departureTime" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="flightDuration" minOccurs="1" maxOccurs="1"/>
+              <xs:element type="xs:string" name="destination" minOccurs="1" maxOccurs="1"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

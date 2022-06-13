@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <Id>1</Id>
+    <Name>123</Name>
+    <Category>
+      <Id>2</Id>
+      <Name>Adventure</Name>
+    </Category>
+  </Movie>
+  <Movie>
+    <Id>2</Id>
+    <Name>421</Name>
+    <Category>
+      <Id>9</Id>
+      <Name>Science Fiction</Name>
+    </Category>
+  </Movie>
+</ArrayOfMovie>

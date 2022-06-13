@@ -1,0 +1,21 @@
+C:\Users\nata2\Desktop\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\nata2\Desktop\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\nata2\Desktop\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\nata2\Desktop\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\nata2\Desktop\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\nata2\Desktop\lab3\bin\Debug\lab3.exe.config
+C:\Users\nata2\Desktop\lab3\bin\Debug\lab3.exe
+C:\Users\nata2\Desktop\lab3\bin\Debug\lab3.pdb
+C:\Users\nata2\Desktop\lab3\obj\Debug\lab3.exe
+C:\Users\nata2\Desktop\lab3\obj\Debug\lab3.pdb
+C:\Users\M\Desktop\lab3 (2)\bin\Debug\lab3.exe.config
+C:\Users\M\Desktop\lab3 (2)\bin\Debug\lab3.exe
+C:\Users\M\Desktop\lab3 (2)\bin\Debug\lab3.pdb
+C:\Users\M\Desktop\lab3 (2)\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\lab3 (2)\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\M\Desktop\lab3 (2)\obj\Debug\lab3.Form1.resources
+C:\Users\M\Desktop\lab3 (2)\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\M\Desktop\lab3 (2)\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\M\Desktop\lab3 (2)\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\lab3 (2)\obj\Debug\lab3.exe
+C:\Users\M\Desktop\lab3 (2)\obj\Debug\lab3.pdb

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfPassanger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Passanger>
+    <Id>448624128</Id>
+    <name>solomia kit</name>
+    <weight>30</weight>
+    <time>26.05.2022 10:16:08</time>
+    <flightNumber>997145</flightNumber>
+    <departureTime>10</departureTime>
+    <flightDuration>6</flightDuration>
+    <destination>tokio</destination>
+  </Passanger>
+  <Passanger>
+    <Id>1021633998</Id>
+    <name>andriy zaets</name>
+    <weight>15</weight>
+    <time>26.05.2022 10:16:08</time>
+    <flightNumber>362548</flightNumber>
+    <departureTime>15</departureTime>
+    <flightDuration>3</flightDuration>
+    <destination>london</destination>
+  </Passanger>
+  <Passanger>
+    <Id>2141001323</Id>
+    <name>tania vovk</name>
+    <weight>20</weight>
+    <time>26.05.2022 10:16:08</time>
+    <flightNumber>362548</flightNumber>
+    <departureTime>15</departureTime>
+    <flightDuration>3</flightDuration>
+    <destination>london</destination>
+  </Passanger>
+  <Passanger>
+    <Id>794969807</Id>
+    <name>oleksandr kohut</name>
+    <weight>12</weight>
+    <time>26.05.2022 10:16:08</time>
+    <flightNumber>163485</flightNumber>
+    <departureTime>11</departureTime>
+    <flightDuration>10</flightDuration>
+    <destination>rio de janeiro</destination>
+  </Passanger>
+  <Passanger>
+    <Id>1534644622</Id>
+    <name>M</name>
+    <weight>19</weight>
+    <time>09.06.2022 12:51:54</time>
+    <flightNumber>12345</flightNumber>
+    <departureTime>17:00</departureTime>
+    <flightDuration>2</flightDuration>
+    <destination>Kyiv</destination>
+  </Passanger>
+  <Passanger>
+    <Id>1133964541</Id>
+    <name>k</name>
+    <weight>20</weight>
+    <time>09.06.2022 14:26:01</time>
+    <flightNumber>234567</flightNumber>
+    <departureTime>18:00</departureTime>
+    <flightDuration>4</flightDuration>
+    <destination>turkey</destination>
+  </Passanger>
+</ArrayOfPassanger>

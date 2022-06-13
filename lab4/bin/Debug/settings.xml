@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <tBox1>2</tBox1>
+  <tBox2>0</tBox2>
+  <tBox3>4</tBox3>
+  <tBox4>5</tBox4>
+  <tBox5>1</tBox5>
+  <tBox6>4</tBox6>
+  <tBox7>8</tBox7>
+  <tBox8>2</tBox8>
+  <tBox9>2</tBox9>
+  <tBox10>8</tBox10>
+  <tBox11>20</tBox11>
+  <tBox12>25</tBox12>
+  <tBox13>52</tBox13>
+  <tBox14>48</tBox14>
+  <tBox15>10</tBox15>
+  <formSize>
+    <Width>494</Width>
+    <Height>607</Height>
+  </formSize>
+  <windowState>Normal</windowState>
+</Settings>

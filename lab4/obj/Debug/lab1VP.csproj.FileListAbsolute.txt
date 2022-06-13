@@ -1,0 +1,31 @@
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\bin\Debug\lab1VP.exe.config
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\bin\Debug\lab1VP.exe
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\bin\Debug\lab1VP.pdb
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\obj\Debug\lab1VP.csprojAssemblyReference.cache
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\obj\Debug\lab1VP.Form1.resources
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\obj\Debug\lab1VP.Properties.Resources.resources
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\obj\Debug\lab1VP.csproj.GenerateResource.cache
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\obj\Debug\lab1VP.csproj.CoreCompileInputs.cache
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\obj\Debug\lab1VP.exe
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\obj\Debug\lab1VP.pdb
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\bin\Debug\lab1VP.exe.config
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\bin\Debug\lab1VP.exe
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\bin\Debug\lab1VP.pdb
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\obj\Debug\lab1VP.csprojAssemblyReference.cache
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\obj\Debug\lab1VP.Form1.resources
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\obj\Debug\lab1VP.Properties.Resources.resources
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\obj\Debug\lab1VP.csproj.GenerateResource.cache
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\obj\Debug\lab1VP.csproj.CoreCompileInputs.cache
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\obj\Debug\lab1VP.exe
+C:\Users\nadia\Desktop\візуальне програмування\lab1VP\lab1VP\obj\Debug\lab1VP.pdb
+C:\Users\M\Desktop\lab5\lab1VP\bin\Debug\lab1VP.exe.config
+C:\Users\M\Desktop\lab5\lab1VP\bin\Debug\lab1VP.exe
+C:\Users\M\Desktop\lab5\lab1VP\bin\Debug\lab1VP.pdb
+C:\Users\M\Desktop\lab5\lab1VP\obj\Debug\lab1VP.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\lab5\lab1VP\obj\Debug\lab1VP.csproj.SuggestedBindingRedirects.cache
+C:\Users\M\Desktop\lab5\lab1VP\obj\Debug\lab1VP.Form1.resources
+C:\Users\M\Desktop\lab5\lab1VP\obj\Debug\lab1VP.Properties.Resources.resources
+C:\Users\M\Desktop\lab5\lab1VP\obj\Debug\lab1VP.csproj.GenerateResource.cache
+C:\Users\M\Desktop\lab5\lab1VP\obj\Debug\lab1VP.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\lab5\lab1VP\obj\Debug\lab1VP.exe
+C:\Users\M\Desktop\lab5\lab1VP\obj\Debug\lab1VP.pdb
