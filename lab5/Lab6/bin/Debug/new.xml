@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfGood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Good>
+    <Id>1</Id>
+    <nameAndSurname>Petro Pavlenko</nameAndSurname>
+    <modelName>Old 1-R Motorola</modelName>
+    <date>08/06/2022</date>
+    <result>true</result>
+    <executionTime>15/06/2022</executionTime>
+    <type>
+      <Id>5</Id>
+      <Name>Radio</Name>
+    </type>
+  </Good>
+  <Good>
+    <Id>2</Id>
+    <nameAndSurname>Anna T</nameAndSurname>
+    <modelName>Iphone 7+</modelName>
+    <date>02/06/2022</date>
+    <result>false</result>
+    <executionTime>15/06/2022</executionTime>
+    <type>
+      <Id>4</Id>
+      <Name>Smartphone</Name>
+    </type>
+  </Good>
+  <Good>
+    <Id>3</Id>
+    <nameAndSurname>Taras Viter</nameAndSurname>
+    <modelName>Samsung MN-34</modelName>
+    <date>18/05/2022</date>
+    <result>true</result>
+    <executionTime>15/06/2022</executionTime>
+    <type>
+      <Id>1</Id>
+      <Name>TV</Name>
+    </type>
+  </Good>
+  <Good>
+    <Id>4</Id>
+    <nameAndSurname>Kateryna Ivanyk</nameAndSurname>
+    <modelName>HP 398</modelName>
+    <date>02/06/2022</date>
+    <result>true</result>
+    <executionTime>16/06/2022</executionTime>
+    <type>
+      <Id>3</Id>
+      <Name>Notebook</Name>
+    </type>
+  </Good>
+  <Good>
+    <Id>5</Id>
+    <nameAndSurname>Bogdan Flys</nameAndSurname>
+    <modelName>1</modelName>
+    <date>06/06/2022</date>
+    <result>true</result>
+    <executionTime>15/06/2022</executionTime>
+    <type>
+      <Id>7</Id>
+      <Name>Play Station</Name>
+    </type>
+  </Good>
+  <Good>
+    <Id>6</Id>
+    <nameAndSurname>Liliya Stat</nameAndSurname>
+    <modelName>for Iphone 5</modelName>
+    <date>05/05/2022</date>
+    <result>true</result>
+    <executionTime>15/06/2022</executionTime>
+    <type>
+      <Id>9</Id>
+      <Name>Charge</Name>
+    </type>
+  </Good>
+  <Good>
+    <Id>7</Id>
+    <nameAndSurname>ТТ</nameAndSurname>
+    <modelName>1</modelName>
+    <date>14/06/2022</date>
+    <result>true</result>
+    <executionTime>16/06/2022</executionTime>
+    <type>
+      <Id>3</Id>
+      <Name>Notebook</Name>
+    </type>
+  </Good>
+</ArrayOfGood>

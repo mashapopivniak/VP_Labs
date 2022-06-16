@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "TV"
+  },
+  {
+    "Id": 2,
+    "Name": "Mobile"
+  },
+  {
+    "Id": 3,
+    "Name": "Notebook"
+  },
+  {
+    "Id": 4,
+    "Name": "Smartphone"
+  },
+  {
+    "Id": 5,
+    "Name": "Radio"
+  },
+  {
+    "Id": 6,
+    "Name": "X-box"
+  },
+  {
+    "Id": 7,
+    "Name": "Play Station"
+  },
+  {
+    "Id": 8,
+    "Name": "Monitor"
+  },
+  {
+    "Id": 9,
+    "Name": "Charge"
+  }
+]

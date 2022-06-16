@@ -1,0 +1,28 @@
+﻿<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ArrayOfGood">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Good" maxOccurs="unbounded" minOccurs="0">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element type="xs:byte" name="Id" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="nameAndSurname" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="modelName" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="date" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:boolean" name="result" minOccurs="1" maxOccurs="1"/>
+							<xs:element type="xs:string" name="executionTime" minOccurs="1" maxOccurs="1"/>
+							<xs:element name="type">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element type="xs:byte" name="Id" minOccurs="1" maxOccurs="1"/>
+										<xs:element type="xs:string" name="Name" minOccurs="1" maxOccurs="1"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
